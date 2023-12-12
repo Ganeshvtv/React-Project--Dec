@@ -27,6 +27,23 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+### 'npm json-server -p 3500 -w data/db.json'
+
+ \{^_^}/ hi!
+
+  Loading data/db.json
+  Done
+
+  Resources
+ open [http://localhost:3500/items]
+
+  Home
+  [http://localhost:3500]
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
